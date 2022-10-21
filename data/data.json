@@ -1,0 +1,52 @@
+{
+  "lists": [
+    {
+      "category": "오늘 할일",
+      "color": "#42D9E7",
+      "todo": [
+        {
+          "text": "말랑이 만지기",
+          "check": true
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "프로젝트",
+      "color": "#FF8F08",
+      "todo": [
+        {
+          "text": "리액트 달력 라이브러리 확인",
+          "check": true
+        },
+        {
+          "text": "애니메이션 CSS",
+          "check": false
+        }
+      ],
+      "id": 2
+    },
+    {
+      "category": "코딩 테스트",
+      "color": "#C6D458",
+      "todo": [
+        {
+          "text": "BFS 문제풀기",
+          "check": false
+        }
+      ],
+      "id": 4
+    },
+    {
+      "category": "취미",
+      "color": "#1CA6EB",
+      "todo": [
+        {
+          "text": "오버워치 배치완료",
+          "check": false
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
